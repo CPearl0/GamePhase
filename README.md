@@ -16,7 +16,6 @@ Game Phase为MC引入了阶段系统。
 Game Phase的理念来源于[Game Stages](https://github.com/Darkhax-Minecraft/Game-Stages)及其附属。GP更加适应高版本，解决了GS及其附属中的一些bug。
 
 使用教程：[Wiki](https://github.com/CPearl0/GamePhase/wiki)
-Discord：[Discord](https://discord.gg/mggnae2CVW)
 
 ### 相关链接：
 
